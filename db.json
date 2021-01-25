@@ -698,9 +698,41 @@
       "customer_name": "Leanne Graham",
       "username": "Bret",
       "email": "Sincere@april.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Kulas Light",
-        "suite": "Apt. 556",
         "city": "Gwenborough",
         "state": "Missouri",
         "zipcode": "92998-3874",
@@ -723,9 +755,41 @@
       "customer_name": "Jesus Barnes",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Victor Plains",
-        "suite": "Suite 879",
         "city": "Wisokyburgh",
         "state": "Missouri",
         "zipcode": "90566-7771",
@@ -748,9 +812,41 @@
       "customer_name": "Jason Mueller",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Douglas Extension",
-        "suite": "Suite 847",
         "city": "McKenziehaven",
         "state": "Missouri",
         "zipcode": "59590-4157",
@@ -773,9 +869,41 @@
       "customer_name": "David Ortega",
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Hoeger Mall",
-        "suite": "Apt. 692",
         "city": "South Elvis",
         "state": "Missouri",
         "zipcode": "53919-4257",
@@ -798,9 +926,41 @@
       "customer_name": "Kevin Gates",
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Skiles Walks",
-        "suite": "Suite 351",
         "city": "Roscoeview",
         "state": "Missouri",
         "zipcode": "33263",
@@ -823,9 +983,41 @@
       "customer_name": "Leonard Leopold",
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Norberto Crossing",
-        "suite": "Apt. 950",
         "city": "South Christy",
         "state": "Missouri",
         "zipcode": "23505-1337",
@@ -848,9 +1040,41 @@
       "customer_name": "Richard Ortbals",
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Rex Trail",
-        "suite": "Suite 280",
         "city": "Howemouth",
         "state": "Missouri",
         "zipcode": "58804-1099",
@@ -873,9 +1097,41 @@
       "customer_name": "Dick Grayson",
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Ellsworth Summit",
-        "suite": "Suite 729",
         "city": "Aliyaview",
         "state": "Missouri",
         "zipcode": "45169",
@@ -898,9 +1154,41 @@
       "customer_name": "Dan Humphrey",
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Dayna Park",
-        "suite": "Suite 449",
         "city": "Bartholomebury",
         "state": "Missouri",
         "zipcode": "76495-3109",
@@ -923,9 +1211,41 @@
       "customer_name": "Blair Waldorf",
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Kattie Turnpike",
-        "suite": "Suite 198",
         "city": "Lebsackbury",
         "state": "Missouri",
         "zipcode": "31428-2261",
@@ -948,9 +1268,41 @@
       "customer_name": "Serena Vanderwoodson",
       "username": "Bret",
       "email": "Sincere@april.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Kulas Light",
-        "suite": "Apt. 556",
         "city": "Gwenborough",
         "state": "Missouri",
         "zipcode": "92998-3874",
@@ -973,9 +1325,41 @@
       "customer_name": "Greg Moore",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Victor Plains",
-        "suite": "Suite 879",
         "city": "Wisokyburgh",
         "state": "Missouri",
         "zipcode": "90566-7771",
@@ -998,9 +1382,41 @@
       "customer_name": "Chuck Bass",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Douglas Extension",
-        "suite": "Suite 847",
         "city": "McKenziehaven",
         "state": "Missouri",
         "zipcode": "59590-4157",
@@ -1023,9 +1439,41 @@
       "customer_name": "Nate Archibald",
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Hoeger Mall",
-        "suite": "Apt. 692",
         "city": "South Elvis",
         "state": "Missouri",
         "zipcode": "53919-4257",
@@ -1048,9 +1496,41 @@
       "customer_name": "Chris Tatum",
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Skiles Walks",
-        "suite": "Suite 351",
         "city": "Roscoeview",
         "state": "Missouri",
         "zipcode": "33263",
@@ -1073,9 +1553,41 @@
       "customer_name": "Bruce Willis",
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Norberto Crossing",
-        "suite": "Apt. 950",
         "city": "South Christy",
         "state": "Missouri",
         "zipcode": "23505-1337",
@@ -1098,9 +1610,41 @@
       "customer_name": "Jim Carrey",
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Rex Trail",
-        "suite": "Suite 280",
         "city": "Howemouth",
         "state": "Missouri",
         "zipcode": "58804-1099",
@@ -1123,9 +1667,41 @@
       "customer_name": "Christoph Waltz",
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Ellsworth Summit",
-        "suite": "Suite 729",
         "city": "Aliyaview",
         "state": "Missouri",
         "zipcode": "45169",
@@ -1148,9 +1724,41 @@
       "customer_name": "Will Smith",
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Dayna Park",
-        "suite": "Suite 449",
         "city": "Bartholomebury",
         "state": "Missouri",
         "zipcode": "76495-3109",
@@ -1173,9 +1781,41 @@
       "customer_name": "Megan O'Reilly",
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
+      "isFinished": false,
+      "jobProgression": {
+        "jobProg": [
+          "Pregrade",
+          "Layout",
+          "Dig",
+          "Haul",
+          "Steel",
+          "Footing",
+          "Shoot",
+          "Gas",
+          "Electric",
+          "Coping",
+          "Tile",
+          "Grade Deck",
+          "Piers",
+          "Pour Deck",
+          "Caulk",
+          "Strip Forms",
+          "Rough Grade"
+        ]
+      },
+      "inspections": {
+        "inspec": [
+          "Shell Rough",
+          "Wall",
+          "Mechanical",
+          "Electric Rough",
+          "Footing",
+          "Rough Deck",
+          "Final Inspection"
+        ]
+      },
       "address": {
         "street": "Kattie Turnpike",
-        "suite": "Suite 198",
         "city": "Lebsackbury",
         "state": "Missouri",
         "zipcode": "31428-2261",
